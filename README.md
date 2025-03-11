@@ -16,7 +16,7 @@ This is my **personal portfolio website** showcasing my skills, projects, and ex
 ## 🛠 **Tech Stack**  
 - **Frontend:** Next.js, React.js, Tailwind CSS  
 - **Animations:** Framer Motion  
-- **Icons:** Lucide Icons  
+- **Icons:** Lucide Icons ,Lord Icons  
 
 ## 🚀 **Installation & Running Locally**  
 1. **Clone the repository:**  
